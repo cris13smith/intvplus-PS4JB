@@ -1,7 +1,6 @@
 body {
     background-image: url("host.jpg");
-    height: 100vh;
-    margin: 10%;
+    height: 80%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
